@@ -1,0 +1,1001 @@
+med_id,patient_id,drug_name,dose,start_date
+1,64,Povidone-Iodine,349.24,10/20/2016
+2,807,NITROGLYCERIN,957.38,12/22/2019
+3,826,DIMETHICONE,78.58,12/5/2017
+4,884,Ziprasidone HCl,372.78,2/17/2002
+5,57,"Helonias chamaelirium, Mezereum",552.35,7/29/2000
+6,418,"Polyethylene Glycol 3350, NF Powder for Solution, Laxative",425.19,5/14/2018
+7,138,Glycerin,210.36,7/24/2014
+8,1,Lamb Quarters,684.42,5/13/2012
+9,141,Sodium Bicarbonate,230.5,10/25/2015
+10,248,dimethicone,688.79,12/19/2008
+11,873,Western Juniper,871.67,5/1/2022
+12,431,Ketotifen Fumarate,285.34,2/16/2009
+13,921,nicardipine hydrochloride,216.21,1/31/2003
+14,860,Fentanyl,769.93,2/8/2007
+15,567,Black Walnut,537.51,6/15/2003
+16,413,Hydroxyzine Hydrochloride,359.6,3/22/2002
+17,434,perampanel,131.53,10/20/2012
+18,636,Cefadroxil,404.51,11/4/2011
+19,739,Lovastatin,217.56,4/15/2012
+20,681,Nifedipine,714.96,9/21/2006
+21,318,Nicotine,651.31,6/19/2000
+22,659,Fluconazole,348.97,2/27/2016
+23,520,THIAMINE HYDROCHLORIDE,21.82,8/29/2017
+24,890,Rifampin,840.85,8/12/2000
+25,562,olmesartan medoxomil,538.7,11/1/2002
+26,179,Losartan Potassium and Hydrochlorothiazide,311.26,5/20/2012
+27,400,"Cimicifuga racemosa, Trifolium pratense, Magnesia carbonica, Agnus castus",114.99,12/1/2001
+28,965,"acetaminophen,dextromethorphan HBr, doxylamine succinate",435.08,9/29/2021
+29,676,"Zincum Aceticum, Zincum Gluconicum",979.18,12/22/2016
+30,637,Diclofenac Sodium,767.09,3/13/2021
+31,470,Diethylpropion Hydrochloride,774.88,5/28/2020
+32,818,TRICLOSAN,360.51,1/7/2012
+33,516,IRBESARTAN AND HYDROCHLOROTHIAZIDE,388.11,5/26/2018
+34,687,Morphine Sulfate,789.53,3/17/2001
+35,626,Mometasone furoate monohydrate,317.08,10/9/2010
+36,601,"Camphor, Menthol, Eucalyptus Oil",600.05,3/30/2021
+37,608,Povidone Iodine,242.45,7/13/2017
+38,158,Treatment Set TS332626,168.4,10/29/2022
+39,918,"Mineral oil, Petrolatum, Phenylephrine HCl, Shark liver oil",835.68,5/25/2017
+40,704,"Dihydrocodeine Bitartrate, Phenylephrine Hydrochloride, and Guaifenesin",192.92,4/18/2021
+41,874,"Titanium Dioxide, OCTINOXATE, Zinc Oxide",705.64,1/13/2019
+42,875,Natrum Muriaticum,778.48,10/30/2017
+43,435,Glycerin,389.2,2/28/2008
+44,596,Oxygen,643.65,12/9/2012
+45,262,"Herpes Simplex I, Herpes Simplex II",493.93,5/16/2004
+46,871,Aspirin,763.58,9/4/2014
+47,56,modafinil,188.81,2/4/2005
+48,380,Sumatriptan Succinate,613.8,3/17/2022
+49,279,"Aceetaminophen, Guaifenesin and Phenylephrine HCl",74.24,6/11/2006
+50,57,Ursodiol,221.5,11/27/2004
+51,506,"Octinoxate, Octocrylene, and Zinc Oxide",176.61,3/1/2006
+52,158,WITCH HAZEL,155.97,7/31/2017
+53,576,Etodolac,808.79,2/12/2018
+54,625,Ropinirole Hydrochloride,803.13,9/16/2019
+55,256,Aspirin,410.94,5/21/2019
+56,486,TITANIUM DIOXIDE,226.88,8/7/2015
+57,110,"Ethylhexyl Dimethyl PABA, Benzophenone-3",736.72,5/11/2007
+58,609,indomethacin,916.11,6/17/2010
+59,144,Isosorbide mononitrate,391.25,1/10/2017
+60,594,morphine sulfate,741.01,7/25/2014
+61,503,Olanzapine,342.25,2/26/2001
+62,65,STANNOUS FLUORIDE,613.04,10/24/2011
+63,516,"Acetaminophen,Dextromethorphan,Phenylephrine",195.24,2/21/2016
+64,716,Mango Blossom,741.22,11/23/2014
+65,173,"ACONITUM NAPELLUS, BRYONIA ALBA ROOT, CALCIUM CATION, SPONGIA OFFICINALIS SKELETON, ROASTED, TIN",584.78,4/9/2018
+66,881,guaifenesin,841.08,11/15/2006
+67,553,Fremont Cottonwood,632.29,11/4/2006
+68,364,Paricalcitol,38.37,9/2/2016
+69,385,Horse Epithelium,297.04,10/6/2009
+70,478,paroxetine hydrochloride,580.01,10/2/2006
+71,841,Treatment Set TS347746,900.41,3/5/2014
+72,13,BIOTIN,845.34,2/11/2021
+73,857,Sodium Phosphate,329.49,10/25/2001
+74,219,"Avobenzone, Homosalate, Octisalate, and Octocrylene",666.0,6/23/2000
+75,649,"BENZOCAINE, RESORCINOL",343.53,1/6/2002
+76,853,OLANZAPINE,431.33,3/26/2013
+77,19,"HOMOSALATE, OCTINOXATE, OCTISALATE, OXYBENZONE, TITANIUM DIOXIDE, ZINC OXIDE",915.36,5/20/2016
+78,255,cyclobenzaprine hydrochloride,897.58,9/19/2002
+79,589,Octinoxate and Titanium dioxide,585.61,12/13/2002
+80,825,Amlodipine besylate,2.29,4/17/2021
+81,133,Alcohol,655.03,11/27/2013
+82,33,Olanzapine,141.87,8/10/2003
+83,823,Jute,602.27,11/30/2008
+84,255,Norethindrone and Ethinyl Estradiol,543.46,4/30/2012
+85,749,Cotton Seed,785.53,10/11/2002
+86,538,Doxycycline hyclate,944.03,6/6/2002
+87,517,zidovudine,442.0,10/9/2010
+88,906,Promethazine Hydrochloride,861.39,1/16/2017
+89,412,Ibuprofen,794.25,1/16/2001
+90,929,Pyrilamine Maleate and Phenylephrine Hydrochloride,175.28,9/27/2006
+91,589,Alcohol,809.86,11/1/2013
+92,889,Lisinopril and Hydrochlorothiazide,148.12,1/17/2004
+93,119,Magnesium Citrate,803.08,3/13/2019
+94,76,riluzole,78.5,8/5/2017
+95,467,silver sulfadiazine,146.62,8/23/2016
+96,924,Cetirizine Hydrochloride,505.75,8/14/2022
+97,340,Titanium Dioxide,598.89,4/16/2005
+98,499,Azithromycin,158.2,9/10/2015
+99,283,"OCTOCRYLENE, PHENYLBENZIMIDAZOLE SULFONIC ACID",403.46,8/26/2005
+100,95,Hydroxyurea,1.97,8/28/2004
+101,887,methimazole,959.84,10/11/2011
+102,653,OCTINOXATE and TITANIUM DIOXIDE,742.27,8/2/2004
+103,590,Ceftriaxone Sodium,468.89,10/27/2000
+104,75,Ibuprofen,886.97,2/1/2000
+105,294,GEMCITABINE HYDROCHLORIDE,608.24,10/2/2022
+106,690,RIBAVIRIN,108.66,6/21/2010
+107,254,"Acetaminophen, Dextromethorphan HBr, Phenylephrine HCl",784.29,4/14/2003
+108,69,Cefpodoxime Proxetil,391.73,6/28/2004
+109,401,Hydrocortisone Acetate Pramoxine Hcl,361.25,9/11/2002
+110,434,"Octinoxate, Zinc Oxide",497.8,5/7/2006
+111,377,Saltbush Annual Atriplex,840.0,2/9/2013
+112,10,Nicotine polacrilex,881.94,1/5/2009
+113,521,nifedipine,600.39,10/25/2004
+114,896,CALENDULA OFFICINALIS FLOWERING TOP,378.91,3/8/2007
+115,158,OCTINOXATE and OXYBENZONE,34.66,4/1/2020
+116,562,Indolum,111.49,9/20/2006
+117,666,fexofenadine hydrochloride,84.41,5/22/2019
+118,658,Lip Balm with Sunscreen,59.17,9/7/2003
+119,305,Doxycycline Hyclate,816.37,10/28/2022
+120,461,travoprost,207.3,11/28/2020
+121,909,alprazolam,829.26,7/20/2015
+122,480,OCTINOXATE,664.16,9/3/2004
+123,719,Metronidazole,422.58,9/25/2001
+124,551,Liothyronine Sodium,574.77,10/28/2021
+125,257,Glipizide,679.35,9/23/2021
+126,200,Lisinopril,458.0,11/14/2022
+127,341,Velvet Grass,15.8,9/13/2012
+128,504,Morphine Sulfate,540.96,3/8/2004
+129,743,Oxymetazoline Hydrochloride,553.5,11/9/2022
+130,570,Treatment Set TS336437,792.19,3/22/2007
+131,828,"Avobenzone, Ensulizole, Octinoxate, Octocrylene",30.52,3/3/2015
+132,9,ATENOLOL,912.54,4/11/2009
+133,921,Carboplatin,379.7,12/15/2014
+134,56,atovaquone and proguanil hydrochloride,163.96,9/3/2001
+135,523,acyclovir,102.3,9/29/2011
+136,539,ETHYL ALCOHOL,813.3,8/3/2021
+137,486,Cetirizine Hydrochloride,482.88,12/1/2013
+138,252,Chlorhexidine Gluconate,24.76,1/30/2002
+139,859,Acetaminophen,549.15,7/2/2006
+140,763,benztropine mesylate,717.57,9/9/2003
+141,715,Chlordiazepoxide Hydrochloride,743.3,6/22/2012
+142,773,Clarithromycin,494.87,7/3/2006
+143,702,Tramadol Hydrochloride,42.83,9/17/2008
+144,985,lisinopril and hydrochlorothiazide,984.45,6/20/2001
+145,454,Clopidogrel bisulfate,830.94,3/30/2012
+146,727,"Apis mel., Berber. vulg., Bryonia, Cantharis, Cinchona, Equisetum hyemale, Ferrum phosphoricum, Gelsemium, Juniperus com., Pareira, Phosphorus, Plantago, Pulsatilla, Sabal, Terebinthina, Uva-ursi, Echinacea, Hydrastis, Lappa, Solidago",87.33,10/19/2017
+147,762,"Actaea spicata, Aesculus hippocastanum, Arnica montana, Bellis perennis, Bryonia, Calcarea carbonica, Calcarea fluorica, Causticum, Cimicifuga racemosa, Formicum acidum, Hypericum perforatum, Lemna minor, Lithium carbonicum, Magnesia phosphorica, Phosphorus, Phytolacca decandra, Pulsatilla, Rhododendron chrysanthum, Rhus toxicodendron, Ruta graveolens, Salicylicum acidum, Sepia, Zincum metallicum",220.68,1/24/2003
+148,328,Olanzapine and Fluoxetine,273.42,12/5/2002
+149,941,Doxycycline Hyclate,940.54,9/30/2006
+150,386,"Agnus C. 30c, Borax 30c, Condurango 30c, Graphites 30c, Iodium 30c, Medorrhinum 30c, Nat Mur 30c, Platina 30c",111.96,11/8/2022
+151,24,leuprolide acetate and norethindrone acetate,987.51,6/10/2016
+152,592,Metformin Hydrochloride,395.05,8/10/2014
+153,435,loperamide HCl,647.95,5/11/2003
+154,976,fluvastatin sodium,863.69,9/20/2006
+155,390,"Standardized Grass Pollen, Timothy",460.2,12/17/2003
+156,974,carvedilol,952.65,11/21/2020
+157,235,ALUMINUM CHLOROHYDRATE,666.53,2/23/2016
+158,34,Alcohol,502.91,3/19/2006
+159,372,Povidone Iodine,1.94,2/22/2009
+160,361,Benzalkonium Chloride,907.31,9/16/2003
+161,579,Celecoxib,686.07,6/15/2010
+162,388,DICLOFENAC SODIUM,484.71,4/6/2011
+163,848,Allantoin,141.13,12/7/2002
+164,154,Phoma herbarum,338.66,1/9/2011
+165,642,Naproxen Sodium,703.04,8/20/2020
+166,295,Metoprolol Tartrate,922.24,5/24/2019
+167,351,Spiny Pigweed,264.94,3/24/2021
+168,755,Modafinil,223.95,12/31/2007
+169,2,Bupropion Hydrochloride,850.33,10/31/2009
+170,917,PREDNISOLONE SODIUM PHOSPHATE,455.73,11/16/2011
+171,65,Octinoxate and Titanium Dioxide,60.94,6/27/2006
+172,637,prednisolone acetate,914.61,9/5/2022
+173,891,ALUMINUM ZIRCONIUM TETRACHLOROHYDREX GLY,415.19,2/13/2005
+174,587,Acetaminophen,32.36,5/5/2016
+175,748,Paricalcitol,707.03,6/27/2022
+176,502,Octinoxate and Oxybenzone,446.18,3/4/2012
+177,661,"Abrotanum (Artemisia abrotanum), Anacardium orientale, Baryta muriatica, Calcarea carbonica, Calcarea phosphorica, Fucus vesiculosus, Graphites, Helleborus niger,",759.18,1/4/2020
+178,193,Menthol,496.73,2/6/2010
+179,127,"Apis mellifica, Arsenicum album, Belladonna, Chamomilla, Echinacea, Lachesis mutus, Mercurius solubilis, Pulsatilla, Pyrogenium, Rhus toxicodendron, Silicea,",766.64,4/25/2012
+180,480,Benzocaine,855.75,5/15/2006
+181,533,Cephalexin,363.85,8/7/2021
+182,330,Dicloxacillin Sodium,3.88,10/11/2022
+183,167,Magnesium hydroxide,139.16,8/11/2001
+184,331,Chlorpheniramine Maleate,120.55,1/26/2014
+185,157,Carvedilol,782.22,11/1/2009
+186,139,Cynodon dactylon pollen,345.83,2/17/2010
+187,572,baccharis halimifolia pollen,771.6,9/17/2022
+188,156,Dexamethasone Sodium Phosphate,564.45,1/17/2008
+189,284,Oxymetazoline Hydrochloride,736.86,1/10/2003
+190,473,Hydromorphone Hydrochloride,695.76,5/12/2019
+191,101,Aluminum Zirconium Trichlorohydrex Gly,536.33,11/14/2007
+192,210,"AMMONIA, LIDOCAINE HYDROCHLORIDE ANHYDROUS, TRIAMCINOLONE ACETONIDE, POVIDONE-IODINE",969.39,10/17/2021
+193,72,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",518.7,3/14/2001
+194,483,"Arnica montana, Mercurius corrosivus, Sulphur iodatum, Thuja occidentalis, Urtica urens,",969.57,11/16/2007
+195,332,Cetirizine,358.16,12/3/2013
+196,21,Levofloxacin,860.82,8/3/2003
+197,899,OCTINOXATE and TITANIUM DIOXIDE,325.28,7/15/2021
+198,444,aluminum hydroxide and magnesium carbonate,672.66,2/5/2015
+199,71,Gaba,163.21,11/22/2005
+200,423,"AVOBENZONE, HOMOSALATE, OCTISALATE, OCTOCRYLENE OXYBENZONE",451.76,12/21/2018
+201,689,simethicone,396.17,2/24/2018
+202,236,Cilostazol,632.07,5/21/2008
+203,343,Pramoxine Hydrochloride,328.19,1/24/2020
+204,273,Diclofenac Sodium,202.98,9/25/2013
+205,233,TROLAMINE SALICYLATE,632.87,10/23/2016
+206,533,Tomato Nicotiana spp.,946.47,11/19/2018
+207,265,Poplar,994.99,1/17/2004
+208,309,Clonidine Hydrochloride,166.68,3/23/2001
+209,557,OXCARBAZEPINE,864.71,2/28/2005
+210,188,Zinc Oxide,776.49,2/1/2007
+211,567,Tacrolimus,813.52,6/10/2018
+212,849,Diphenhydramine Hydrochloride,34.47,5/17/2005
+213,355,Licorice,383.93,9/9/2014
+214,680,pyrithione zinc,798.4,1/16/2016
+215,442,isopropyl alcohol,788.74,3/18/2009
+216,240,"DIPHENHYDRAMINE HYDROCHLORIDE, ZINC ACETATE",548.3,11/19/2005
+217,178,Methotrexate Sodium,125.69,6/27/2000
+218,482,Promethazine Hydrochloride and Codeine Phosphate,80.49,2/20/2008
+219,302,CEFACLOR,750.54,4/30/2015
+220,87,BENZOCAINE and RESORCINOL,550.22,9/27/2012
+221,617,Dexamethasone,136.36,12/17/2000
+222,20,chloroxylenol,868.84,1/25/2019
+223,877,"Avobenzone, Octisalate, Octocrylene and Oxybenzone",668.97,5/26/2002
+224,794,Clonazepam,751.6,10/11/2012
+225,243,Sotalol Hydrochloride,273.82,8/4/2003
+226,296,Famotidine,461.15,7/16/2018
+227,537,First Aid Ointment,437.14,9/8/2002
+228,809,Ragweed False Bur,360.2,7/10/2012
+229,850,Omeprazole,378.81,9/24/2008
+230,176,clindamycin palmitate hydrochloride,919.64,7/15/2019
+231,686,Clonazepam,588.38,10/29/2016
+232,356,paroxetine hydrochloride,1.25,8/3/2013
+233,941,Triclosan,440.23,1/14/2002
+234,377,Titanium Dioxide,338.5,8/26/2014
+235,478,"Meadow Fescue Grass, Standardized",568.17,5/11/2003
+236,580,Ondansetron,482.52,1/25/2011
+237,935,Buspirone Hydrochloride,393.2,3/15/2001
+238,90,Benzalkonium chloride 0.13%,287.9,11/28/2006
+239,769,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate, and Amphetamine Sulfate",108.77,10/18/2007
+240,587,flurandrenolide,524.73,2/2/2002
+241,224,Zinc Oxide,228.31,10/2/2013
+242,360,"BENZOICUM ACIDUM, BERBERIS VULG., BRYONIA, CANTHARIS, CARDUUS BENEDICTUS, CEANOTHUS, CHELIDONIUM MAJUS, CHIONANTHUS VIRGINICA, CINCHONA, DIOSCOREA, DOLICHOS, IRIS VERSICOLOR, JUNIPERUS COM., NUX VOM., PTELEA, TARAXACUM, URICUM ACIDUM, CARDUUS MAR., CYNARA SCOLYMUS, SOLIDAGO",900.45,11/15/2008
+243,548,atorvastatin calcium trihydrate,222.59,7/25/2013
+244,321,oxymorphone hydrochloride,2.19,1/24/2015
+245,248,Meclizine Hydrocloride,314.74,10/4/2010
+246,127,dexamethasone,655.61,6/18/2007
+247,713,POVIDONE-IODINE,969.76,10/5/2003
+248,543,verapamil hydrochloride,66.68,3/30/2002
+249,729,isopropyl alcohol,117.42,10/23/2021
+250,239,TITANIUM DIOXIDE and OCTINOXATE,193.64,6/21/2012
+251,154,Vesica urinaria 8 Special Order,568.44,5/22/2020
+252,685,Quetiapine fumarate,619.88,9/1/2015
+253,221,acetaminophen and codeine phosphate,374.02,4/1/2001
+254,797,furosemide,716.08,4/22/2019
+255,553,meloxicam,330.66,4/27/2017
+256,912,"Acetaminophen, Chlorpheniramine Maleate and Phenylephrine HCl",311.38,2/25/2017
+257,628,HISTAMINE DIHYDROCHLORIDE,2.32,9/5/2010
+258,398,Meloxicam,658.18,2/8/2010
+259,947,"Aethusa cynapium, Calcarea carbonica, Cucurbita pepo, semen, Gambogia, Histaminum hydrochloricum, Hydrastis canadensis, Lycopodium clavatum, Natrum carbonicum, Nitricum acidum, Nux vomica, Ovi gallinae pellicula, Phosphorus, Pulsatilla, Sulphur",579.5,1/27/2018
+260,479,tetrabenazine,92.61,8/25/2018
+261,284,Cephalexin,122.73,10/11/2008
+262,706,clindamycin phosphate,352.72,6/12/2020
+263,275,Beef Bovine spp.,282.13,4/10/2000
+264,268,Allergenic Extracts Alum Precipitated,566.8,8/17/2022
+265,913,Nettle Pollen,138.69,5/17/2001
+266,279,Hydroquinone SPF15,454.89,4/15/2020
+267,421,Venlafaxine,625.74,8/1/2016
+268,116,Amlodipine Besylate,170.81,8/27/2012
+269,375,mesalamine,406.41,6/21/2016
+270,348,HYDROQUINONE,602.16,11/11/2021
+271,141,Lidocaine and Prilocaine,940.32,1/12/2004
+272,597,"Dextromethorphan Hydrobromide, Guaifenesin",158.73,6/2/2006
+273,341,Olanzapine,508.73,4/30/2021
+274,579,Meclizine HCl,14.86,12/28/2001
+275,777,NAFCILLIN,130.94,11/26/2010
+276,233,TRICLOSAN,745.32,10/28/2005
+277,634,acyclovir,37.42,1/20/2021
+278,470,GLYCERIN,632.53,12/2/2009
+279,348,Lidocaine and Prilocaine,360.08,5/18/2006
+280,84,Ramipril,910.57,8/9/2019
+281,857,Morphine sulfate,535.53,8/14/2022
+282,333,TERAZOSIN HYDROCHLORIDE,915.21,2/14/2001
+283,153,TRICLOSAN,613.97,10/5/2002
+284,19,oxybutynin chloride,855.03,3/5/2007
+285,993,string bean,296.13,9/22/2003
+286,947,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",312.61,9/15/2001
+287,26,risperidone,597.27,1/13/2012
+288,262,Povidone-Iodine Ointment,458.03,5/24/2008
+289,890,SOLX B ADDITIVE SOLUTION,368.08,4/13/2013
+290,858,Atorvastatin Calcium,863.17,11/14/2022
+291,191,methadone hydrochloride,392.2,3/2/2006
+292,918,carbinoxamine maleate,220.01,9/3/2006
+293,592,"Helicobacter pylori,",526.1,8/12/2016
+294,436,"hydrocodone bitartrate, acetaminophen",705.99,10/22/2009
+295,344,PANTOPRAZOLE SODIUM,691.6,7/31/2011
+296,496,Bromfenac Sodium,628.52,12/21/2015
+297,882,"marcaine, kenalog, povidone iodine",763.78,10/4/2022
+298,109,Gemcitabine Hydrochloride,381.19,9/10/2019
+299,469,cetirizine Hydrochloride,366.54,12/16/2015
+300,302,"Leucine, Phenylalanine, Lysine, Methionine, Isoleucine, Valine, Histidine, Threonine, Tryptophan, Alanine, Glycine, Arginine, Proline, Serine, Tyrosine, Sodium Acetate, Dibasic Potassium Phosphate, Ma",835.08,9/4/2007
+301,670,Ketoprofen,350.99,1/29/2015
+302,120,Norethindrone,493.77,9/19/2011
+303,213,"BACITRACIN, NEOMYCIN SULFATE, POLYMYXIN-B SULFATE",424.03,6/11/2009
+304,176,Triclosan,485.57,8/19/2015
+305,204,everolimus,849.24,9/29/2020
+306,757,Ibuprofen,114.82,3/31/2005
+307,900,"OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE",436.92,9/15/2011
+308,179,RAMEDICA,333.77,10/19/2003
+309,677,Sodium Fluoride,696.57,6/28/2020
+310,712,Ciprofloxacin,944.06,10/21/2008
+311,713,Lisinopril,177.3,7/21/2005
+312,902,tetrahydrozoline Hydrochloride,866.8,4/13/2010
+313,200,"Octinoxate, Oxybenzone, and Titanium Dioxide",40.23,11/16/2016
+314,910,amlodipine besylate and benazepril hydrochloride,884.22,4/3/2006
+315,276,TITANIUM DIOXIDE,711.81,8/21/2012
+316,44,Hydrocortisone Butyrate,577.99,10/10/2012
+317,635,"Influenzinum, Aconitum nap., Arsenicum alb., Belladonna, Bryonia, Camphora, Cina, Cinchona, Eupatorium perf., Ferrum phosphoricum, Gelsemium, Hepar sulph. calc., Ignatia, Nat. mur., Nux vom., Phosphorus, Pulsatilla, Salix nigra,Veratrum viride, Chamomilla, Echinacea, Hydrastis.",655.35,2/22/2021
+318,978,Pseudoephedrine Hydrochloride,299.75,8/25/2021
+319,584,cefixime,104.71,2/14/2005
+320,542,MORPHINE SULFATE,732.29,5/15/2018
+321,179,Felodipine,36.67,3/29/2013
+322,502,lomustine,236.99,6/11/2011
+323,74,ezetimibe and simvastatin,375.35,3/14/2000
+324,230,Ibuprofen,543.92,6/17/2007
+325,623,valsartan,309.89,6/19/2022
+326,878,Halibut,986.97,9/2/2014
+327,955,Nitrous Oxide,945.9,6/6/2020
+328,336,Antiperspirant/Deodorant,96.51,12/24/2001
+329,556,METFORMIN HYDROCHLORIDE,340.49,7/15/2002
+330,137,mesalamine,90.68,5/27/2002
+331,980,Neurospora intermedia,832.98,1/26/2022
+332,423,Orange Pollen,283.26,3/28/2003
+333,91,Amitriptyline Hydrochloride,749.64,7/12/2020
+334,270,OCTINOXATE,362.75,10/3/2001
+335,578,miglitol,771.38,7/19/2015
+336,959,niacin,498.94,8/27/2011
+337,584,"ARSENIC TRIOXIDE - FERROSOFERRIC PHOSPHATE - PULSATILLA VULGARIS - SILICON DIOXIDE - DROSERA ROTUNDIFOLIA - SPONGIA OFFICINALIS SKELETON, ROASTED - SAMBUCUS NIGRA FLOWERING TOP -",476.79,2/25/2006
+338,741,Fentanyl,706.97,4/20/2007
+339,161,Terazosin Hydrochloride,267.98,2/27/2010
+340,147,Alcohol,15.93,9/13/2017
+341,389,stavudine,444.51,4/12/2022
+342,787,Aspen,793.16,11/19/2000
+343,774,AMANTADINE HYDROCHLORIDE,203.3,1/31/2005
+344,916,Vinorelbine,724.66,8/6/2012
+345,866,"LIDOCAINE HYDROCHLORIDE, MENTHOL",321.76,11/16/2002
+346,161,ZINC ACETATE ANHYDROUS and ZINC GLUCONATE,232.89,8/25/2021
+347,586,ALPRAZOLAM,704.3,5/29/2003
+348,610,Atenolol,682.81,10/16/2007
+349,136,"Avobenzone, Octisalate, Octocrylene, and Oxybenzone",326.5,4/23/2016
+350,540,"Acetaminophen, Diphenhydramine HCl",797.49,1/22/2006
+351,111,BuPROPion Hydrochloride,226.65,6/21/2008
+352,790,"HGH, Hepar suis, Pituitary suis,",12.47,11/6/2015
+353,122,Octinoxate and Titanium dioxide,242.96,12/31/2008
+354,470,OCTINOXATE and TITANIUM DIOXIDE,455.46,12/27/2014
+355,325,Octinoxate and Titanium Dioxide,529.82,11/23/2003
+356,300,ZINC OXIDE,345.97,8/23/2000
+357,884,Ibuprofen,25.77,12/31/2007
+358,504,Atenolol and Chlorthalidone,112.94,9/11/2011
+359,819,Levofloxacin,132.84,2/4/2014
+360,310,Titanium Dioxide,824.61,5/28/2012
+361,847,"Avobenzone, Octisalate and Octocrylene",459.53,11/27/2000
+362,379,"Menthol, zinc oxide",428.28,9/22/2004
+363,882,Acetaminophen,581.73,12/21/2020
+364,349,Gemfibrozil,916.94,3/2/2014
+365,871,Benazepril Hydrochloride,351.17,11/5/2001
+366,852,Temozolomide,553.31,7/15/2007
+367,96,Norethindrone Acetate,535.94,7/15/2014
+368,859,metaxalone,695.75,3/4/2001
+369,897,Octinoxate,751.94,6/18/2016
+370,355,"Carbidopa, levodopa and entacapone",155.25,7/27/2006
+371,424,Triclosan,616.88,5/31/2013
+372,334,propoxyphene hydrochloride,56.99,8/8/2005
+373,724,Calcium polycarbophil,423.65,4/12/2003
+374,882,Treatment Set TS344001,406.63,9/10/2000
+375,850,zolmitriptan,252.37,12/29/2012
+376,295,levothyroxine sodium tablets,34.47,12/20/2010
+377,991,Avobenzone and Octinoxate,727.85,8/17/2016
+378,352,Natural Medicine,43.45,6/11/2018
+379,988,Hydrocortisone,597.18,3/2/2004
+380,279,Naproxen Sodium,758.3,1/14/2004
+381,85,Zoster Vaccine Live,626.44,12/13/2017
+382,332,HELMINTHOSPORIUM SOLANI,131.84,10/14/2011
+383,965,Amlodipine besylate and Atorvastatin calcium,434.83,4/1/2012
+384,56,Bacitracin,172.21,1/28/2015
+385,956,OXYGEN,114.76,3/17/2016
+386,680,Atomoxetine Hydrochloride,142.06,11/15/2014
+387,553,Benzalkonium Chloride,143.05,3/23/2005
+388,7,TIZANIDINE HYDROCHLORIDE,313.64,1/22/2015
+389,850,amlodipine besylate and benazepril hydrochloride,783.79,6/11/2002
+390,70,avanafil,202.74,6/11/2000
+391,248,"Octinoxate, Octisalate, Avobenzone",210.46,5/6/2010
+392,972,Aluminum Chlorohydrate,285.55,3/13/2003
+393,419,Benzethonium chloride,656.64,5/20/2020
+394,791,Fenofibrate,781.11,11/30/2011
+395,658,flecainide acetate,866.08,9/3/2002
+396,109,Amoxicillin,528.72,8/4/2016
+397,230,pramoxine hydrochloride 1%,668.75,8/5/2004
+398,647,Ibuprofen,818.62,9/26/2022
+399,602,Acremonium strictum,462.43,12/5/2011
+400,905,ESZOPICLONE,671.22,1/5/2001
+401,781,"Camphor, Eucalyptus Oil, Menthol",158.3,9/23/2003
+402,772,doxycycline,337.52,9/29/2009
+403,890,Glycerin,447.42,11/26/2008
+404,715,Cromolyn Sodium,948.84,8/23/2009
+405,131,Sulindac,919.82,4/10/2004
+406,193,Propylthiouracil,472.4,8/6/2000
+407,313,"eucalyptol, menthol, methyl salicylate, thymol",596.1,1/17/2012
+408,13,Salicylic Acid,231.97,6/22/2006
+409,693,Lorazepam,636.84,5/12/2020
+410,57,ALLANTOIN,128.26,8/29/2007
+411,360,"acetaminophen, dextromethorphan HBr, doxylamine succinate, phenylephrine HCl",307.18,3/22/2021
+412,638,Losartan Potassium,174.44,2/25/2014
+413,576,Chloroxylenol,953.91,10/27/2020
+414,684,Glycerin,919.84,2/9/2010
+415,4,"Acetaminophen, Diphenhydramine hydrochloride, and Phenylephrine hydrochloride",211.62,10/4/2003
+416,304,"Arnica montana, Calcarea carbonica, Chenopodium anthelminticum, Chininum salicylicum, Cimicifuga racemosa, Coffea tosta, Kali iodatum, Kalmia latifolia, Magnesia carbonica, Manganum aceticum, Manganum carbonicum, Mercurius vivus, Natrum salicylicum, Salicylicum acidum, Thiosinaminum, Thyroidinum",931.14,11/11/2005
+417,275,Octinoxate,4.06,10/17/2007
+418,115,Sennosides,286.0,11/24/2002
+419,125,Acetaminophen,780.9,10/25/2010
+420,37,polyethylene glycol (3350),746.05,1/29/2018
+421,133,Sodium Fluoride,899.44,3/19/2001
+422,820,Triclosan,603.11,10/9/2003
+423,995,Aluminum Zirconium Pentachlorohydrex Gly,932.12,7/14/2019
+424,11,Ibuprofen,70.62,1/1/2019
+425,662,Clarithromycin,98.25,5/19/2011
+426,167,Indomethacin,390.7,7/21/2014
+427,321,Hydrocodone Bitartate and Acetaminophen,544.8,5/23/2011
+428,896,"Agnus castus, Angelica sinensis radix, Apis mellifica, Aralia quinquefolia, Arnica montana, Cimicifuga racemosa, Galium aparine, Glycyrrhiza glabra, Oophorinum suis, Sepia, Thuja occidentalis, Viscum album,",450.63,6/27/2003
+429,293,Octinoxate and Oxybenzone,518.98,11/23/2012
+430,375,Benzalkonium Chloride,720.74,7/30/2022
+431,840,CP2D/AS-3 Anticoagulant and Additive System,625.27,7/22/2011
+432,678,Trazodone,849.12,12/31/2000
+433,588,Caffeic Acid,307.36,6/4/2014
+434,277,montelukast sodium,483.1,4/30/2005
+435,359,Acetaminophen,762.99,1/10/2007
+436,841,GLYCERIN,191.43,9/24/2007
+437,605,VANCOMYCIN HYDROCLORIDE,44.9,2/23/2013
+438,281,Fluoride,917.6,4/30/2017
+439,323,"dimethicone, octinoxate, octisalate, oxybenzone",411.86,9/8/2020
+440,707,risperidone,474.44,11/9/2011
+441,81,Oak California Live Coast,642.25,8/18/2022
+442,766,CHLOROXYLENOL,251.99,4/25/2010
+443,188,clonidine hydrochloride,666.77,7/4/2022
+444,144,Valproic Acid,577.57,4/6/2000
+445,165,"avobenzone, dimethicone, octinoxate, octisalate",611.82,4/29/2009
+446,694,acetaminophen and codeine phosphate,75.39,8/23/2015
+447,213,"Psorinum , Staphisagria , Viola tri",913.79,5/10/2012
+448,219,Famotidine,50.46,10/23/2013
+449,111,irbesartan and hydrochlorothiazide,329.72,3/4/2018
+450,883,ABIES NIGRA,795.77,10/2/2014
+451,80,Candida albicans,337.8,7/23/2009
+452,983,AcetaZOLAMIDE,313.01,4/18/2011
+453,553,"Octinoxate, Oxybenzone, and Titanium Dioxide",444.64,1/20/2020
+454,656,desogestrel/ethinyl estradiol and ethinyl estradiol,709.59,12/30/2022
+455,907,Ibuprofen,68.55,3/22/2003
+456,39,California Black Walnut,295.78,6/10/2022
+457,53,"Kali phos, Nat phos , Calc phos, Lactose",184.79,4/4/2021
+458,699,PETROLATUM,590.86,5/16/2003
+459,828,"Dextromethorphan Hydrobromide, Phenylephrine HCl and Thonzylamine HCl",210.47,8/26/2018
+460,518,Tapioca,908.88,5/25/2003
+461,600,BOLDO,88.21,7/26/2019
+462,59,"SODIUM CHLORIDE, SODIUM LACTATE, POTASSIUM CHLORIDE, CALCIUM CHLORIDE and DEXTROSE MONOHYDRATE",48.07,4/18/2014
+463,412,BENZALKONIUM CHLORIDE,968.52,7/29/2011
+464,582,nicotine polacrilex,245.71,3/14/2008
+465,757,phytonadione,301.06,7/7/2004
+466,48,Ampicillin and Sulbactam,978.59,3/9/2006
+467,953,"EUCALYPTOL, MENTHOL, METHYL SALICYLATE, THYMOL",733.29,1/26/2015
+468,617,Ibuprofen,274.12,2/2/2019
+469,262,CHLOROXYLENOL,888.53,6/9/2012
+470,459,Ibuprofen,360.62,2/16/2016
+471,156,"OCTINOXATE, TITANIUM DIOXIDE",817.42,4/16/2005
+472,316,Ribavirin,993.29,6/20/2020
+473,361,White Petrolatum,735.95,10/6/2006
+474,2,"Acetaminophen, Dextromethorphan Hydrobromide, Doxylamine Succinate",42.14,2/7/2010
+475,379,Menthol,407.51,9/15/2002
+476,89,Grapefruit,978.32,10/24/2017
+477,127,Aluminum Zirconium Tetrachlorohydrex GLY,79.71,5/25/2009
+478,754,DOG EPITHELIA,693.08,7/5/2001
+479,260,"Animal Allergens, Dog Dander Canis spp",144.19,12/19/2021
+480,295,Dexamethasone,851.58,8/20/2017
+481,634,Nitrous Oxide,445.23,12/3/2008
+482,369,"Clostridium difficile,",369.96,5/19/2000
+483,755,Cetirizine,923.32,4/22/2001
+484,448,amlodipine and valsartan,596.11,8/10/2001
+485,51,"Acetaminophen, Dextromethorphan HBr, Doxylamine succinate, Phenylephrine HCl",416.07,5/1/2019
+486,254,Fluoxetine,63.09,9/29/2016
+487,128,"Dimethicone, Octinoxate, Octisalate, Oxybenzone",822.39,11/20/2001
+488,685,Water Oak,9.63,2/13/2011
+489,312,Nafcillin Sodium,928.61,5/3/2000
+490,96,Aluminum Sesquichlorohydrate,631.83,9/8/2012
+491,819,ibuprofen,959.96,7/9/2002
+492,10,Topical Skin Spray,218.04,8/7/2018
+493,147,Quinapril,670.87,6/24/2009
+494,923,"sodium chloride, sodium lactate, calcium chloride, magnesium chloride and dextrose",509.48,4/22/2021
+495,405,Loratadine,812.62,3/23/2014
+496,683,oxybutynin chloride,495.88,9/21/2008
+497,796,Urinary Pain Relief,877.31,7/3/2001
+498,620,BENZTROPINE MESYLATE,210.48,12/20/2012
+499,1,"Octinoxate, Oxybenzone, Titanium Dioxide",307.56,12/4/2010
+500,400,Octinoxate and Titanium Dioxide,464.56,7/1/2018
+501,19,Aluminum Sesquichlorohydrate,182.66,8/14/2010
+502,255,"Dimethicone, Allantoin",962.88,9/19/2020
+503,135,Acetaminophen,194.03,11/27/2012
+504,732,diphenhydramine hydrochloride and zinc acetate,951.71,9/1/2003
+505,576,CLADOSPORIUM CLADOSPORIOIDES,27.54,9/16/2006
+506,814,Desoximetasone,274.63,6/11/2000
+507,499,Ibuprofen,773.59,5/9/2003
+508,572,Octinoxate and Zinc Oxide,63.7,4/24/2002
+509,620,PROGESTERONE,534.83,4/17/2006
+510,79,potassium chloride,22.25,5/30/2000
+511,241,Piroxicam,519.12,2/2/2009
+512,211,Nifedipine,66.92,4/17/2005
+513,309,Nicotine Polacrilex,47.48,6/25/2006
+514,108,Metoclopramide,632.15,5/5/2004
+515,503,Mesquite,10.36,6/15/2000
+516,236,OXYMORPHONE HYDROCHLORIDE,982.71,10/22/2014
+517,409,Epicoccum nigrum,848.55,12/17/2001
+518,121,OXYGEN,839.1,7/4/2019
+519,983,not applicable,619.62,7/25/2006
+520,814,Pectin,360.36,4/27/2018
+521,951,Menthol,171.05,3/27/2009
+522,157,Ritonavir,65.47,3/13/2015
+523,239,Anticoagulant Citrate Phosphate Dextrose (CPD) Solution and ADSOL Preservation Solution,365.71,11/1/2021
+524,32,DIMETHICONE,545.24,4/17/2022
+525,598,ropinirole hydrochloride,59.12,4/4/2008
+526,735,Atropine Sulfate,668.16,12/14/2010
+527,789,ISodium Chloride,459.48,3/9/2007
+528,731,DIMETHICONE,336.41,9/14/2012
+529,997,Cyclobenzaprine Hydrochloride,217.46,10/9/2007
+530,714,DIMETHICONE,997.26,12/26/2011
+531,252,"Coccus Cacti, Drosera, Scilla Maritima, Arsenicum Iodatum, Causticum, Cuprum Aceticum, Carbo Vegetabilis",9.43,3/20/2017
+532,692,Acetaminophen,424.47,3/29/2004
+533,638,Callistemon citrinus,43.28,7/6/2006
+534,663,Carbamide Peroxide,127.66,8/12/2002
+535,555,Acetaminophen Chlorpheniramine Maleate Phenylepherine Hydrochloride,464.42,12/19/2004
+536,148,benztropine mesylate,688.33,10/9/2012
+537,249,"Acetaminophen, Diphenhydramine HCl",702.4,10/6/2018
+538,877,"Antihemophilic Factor, Human Recombinant",428.4,9/17/2005
+539,503,Phenytoin Sodium,852.29,1/20/2016
+540,551,KEROSENE,119.71,2/24/2021
+541,904,NITROGLYCERIN,60.19,12/22/2017
+542,579,hydrocortisone,10.18,10/29/2009
+543,800,PREGABALIN,143.18,4/28/2019
+544,130,galantamine hydrobromide,851.79,2/9/2005
+545,770,Octinoxate and Titanium Dioxide,82.71,11/18/2013
+546,580,SENNOSIDES,36.52,8/25/2007
+547,217,FLUORIDE TREATMENT,868.23,12/10/2003
+548,284,levetiracetam,14.83,11/19/2013
+549,616,Diphenhydramine Hydrochloride,101.33,8/29/2003
+550,984,Healthcare personnel handwash,242.19,6/10/2013
+551,170,escitalopram,260.87,10/25/2022
+552,741,Pseudoephedrine HCl,100.54,6/24/2004
+553,86,Acetaminophen,444.25,7/9/2007
+554,482,zileuton,387.66,10/18/2014
+555,604,"avobenzone, homosalate, octinoxate, octisalate, oxybenzone",644.33,3/24/2007
+556,208,EPINEPHRINE,412.76,5/21/2022
+557,153,Ropinirole Hydrochloride,167.07,1/6/2019
+558,689,Fresh Cucumber Melon,900.33,7/4/2021
+559,227,Simvastatin,66.16,5/10/2017
+560,234,Anti-bacterial Hand Wash,780.99,7/6/2007
+561,16,DANIO RERIO EGG,3.03,10/2/2021
+562,102,Trazodone Hydrochloride,473.28,3/5/2008
+563,833,Naloxone Hydrochloride,765.8,9/5/2014
+564,77,Lenalidomide,195.9,6/12/2011
+565,682,Benzalkonium Chloride,62.43,10/9/2011
+566,643,gadopentetate dimeglumine,787.08,10/18/2015
+567,920,Aspirin,504.15,2/13/2022
+568,133,Viscum Belladonna,407.81,3/15/2018
+569,810,Diphenhydramine Hydrochloride,97.13,9/3/2014
+570,518,Polyethylene Glycol 3350,811.43,11/22/2007
+571,251,Sotalol Hydrochloride,891.56,8/14/2003
+572,466,alprazolam,245.13,4/2/2008
+573,123,Gabapentin,654.55,6/23/2001
+574,921,Acetaminophen,52.22,5/12/2008
+575,292,GLYCERIN,467.83,6/9/2016
+576,45,OCTINOXATE,902.65,3/9/2014
+577,564,Benzoyl Peroxide,718.3,5/10/2014
+578,647,GUAIFENESIN,668.81,5/7/2018
+579,819,Buspirone Hydrochloride,692.13,12/31/2004
+580,583,methylergonovine maleate,343.11,12/19/2013
+581,274,"Aluminum Hydroxide, Magnesium Hydroxide, Simethicone",953.4,8/20/2001
+582,719,Number Four Mold Mixture,244.85,2/14/2008
+583,645,"Bacitracin Zinc, Polymyxin B Sulfate",370.35,2/19/2003
+584,367,Ensulizole Octinoxate,940.62,1/13/2005
+585,843,Pregabalin,806.26,2/11/2007
+586,297,Sodium Fluoride,318.27,9/19/2011
+587,134,Ramipril,914.08,11/11/2003
+588,130,Losartan Potassium,630.58,5/28/2016
+589,699,ENALAPRIL MALEATE,20.61,10/28/2014
+590,206,Levofloxacin,694.82,7/10/2020
+591,649,TRICLOSAN,577.63,11/1/2018
+592,655,POLIDOCANOL,878.02,1/17/2005
+593,15,Ezetimibe,160.05,5/10/2004
+594,33,"OCTINOXATE, OCTISALATE, TITANIUM DIOXIDE",610.36,10/2/2005
+595,938,colesevelam hydrochloride,955.12,12/5/2022
+596,26,Ibuprofen,278.17,11/1/2017
+597,724,Phenylephrine hydrochloride,301.34,9/3/2019
+598,855,AMLODIPINE BESYLATE,513.23,4/29/2011
+599,184,methylprednisolone,759.24,6/1/2013
+600,489,NIFEDIPINE,413.17,5/18/2018
+601,656,Aluminum Zirconium Tetrachlorohydrex GLY,402.47,4/2/2003
+602,553,Zinc Oxide,752.39,3/31/2004
+603,816,TOPICAL STARCH,712.08,8/5/2000
+604,232,Calcium carbonate,401.59,2/14/2002
+605,216,Argentum carbonicum 6 Special Order,401.84,7/9/2002
+606,5,WHITE PETROLEUM,218.73,4/24/2020
+607,484,"TITANIUM DIOXIDE, OCTINOXATE",321.53,10/13/2010
+608,363,Balsam Poplar,87.5,5/16/2017
+609,808,losartan potassium,598.4,7/6/2004
+610,208,Ensulizole Homosalate Octinoxate Octocrylene Zinc oxide,925.21,3/31/2018
+611,205,lisinopril,2.58,8/17/2001
+612,211,Potassium Chloride,753.31,5/1/2018
+613,223,"Chlorpheniramine Maleate, Pseudoephedrine Hydrochloride",303.72,8/16/2001
+614,66,Benzalkonium Chloride,887.03,8/26/2010
+615,114,zolpidem tartrate,629.67,7/27/2022
+616,879,Olanzapine,183.26,9/11/2010
+617,816,BUPIVACAINE HYDROCHLORIDE,763.39,5/18/2001
+618,462,"ONION, GALPHIMIA GLAUCA FLOWERING TOP, HISTAMINE DIHYDROCHLORIDE, LUFFA OPERCULATA FRUIT, SODIUM CHLORIDE, and STRYCHNOS NUX-VOMICA SEED",996.97,9/26/2021
+619,20,Calcium carbonate,283.27,3/5/2020
+620,636,METAXALONE,38.88,1/27/2013
+621,246,Aluminum Chlorohydrate,700.07,7/23/2003
+622,180,Magesium Citrate,75.27,3/18/2009
+623,953,FERRUM PHOSPHORICUM,359.88,12/18/2010
+624,167,"Mineral oil, Petrolatum, Phenylephrine HCl, Shark liver oil",461.83,8/30/2012
+625,474,BENZOCAINE BENZALKONIUM CHLORIDE,49.49,1/25/2013
+626,700,Tetrahydrozoline Hydrochloride,279.22,3/23/2006
+627,49,Lidocaine,102.79,6/27/2003
+628,371,Miconazole Nitrate,571.65,2/21/2003
+629,66,Lovastatin,427.19,9/20/2017
+630,467,benzocaine and benzethonium chloride,914.96,12/8/2009
+631,369,Fentanyl Citrate,516.21,6/1/2010
+632,252,"Octinoxate, Octisalate",2.89,3/25/2016
+633,504,Buspirone hydrochloride,569.61,7/14/2018
+634,293,PREDNISOLONE SODIUM PHOSPHATE,178.87,5/16/2009
+635,274,Tretinoin,258.91,5/4/2006
+636,591,Mirtazapine,264.55,10/17/2010
+637,791,HYDROQUINONE,894.92,7/13/2010
+638,499,Seroquel,873.8,4/20/2011
+639,478,Levothyroxine Sodium,743.09,4/10/2003
+640,657,"Dihydrocodeine Bitartrate, Acetaminophen and Caffeine",458.27,6/2/2003
+641,387,tamsulosin hydrochloride,184.59,1/28/2002
+642,541,galantamine hydrobromide,331.34,7/31/2012
+643,265,Anticavity Rinse,13.36,3/12/2010
+644,432,felbamate,61.9,12/22/2020
+645,474,fexofenadine hcl,5.42,3/12/2010
+646,328,Human Insulin,851.52,7/29/2021
+647,195,HUMAN IMMUNOGLOBULIN G,902.45,4/21/2006
+648,281,Ibuprofen,230.8,9/12/2021
+649,905,Acetaminophen,526.32,7/3/2009
+650,287,Bacitracin Lidocaine,89.49,3/30/2006
+651,535,ZONISAMIDE,666.69,8/27/2000
+652,682,Salicylic acid,273.95,8/26/2020
+653,395,OCTINOXATE and TITANIUM DIOXIDE,23.92,3/16/2019
+654,891,fluconazole,107.24,11/17/2006
+655,688,"Aluminum hydroxide, Magnesium hydroxide, Simethicone",627.14,7/6/2018
+656,543,"Acetaminophen, Chlorpheniramine maleate, and Phenylephrine Hydrochloride",498.64,3/5/2017
+657,791,TEMAZEPAM,347.52,2/24/2002
+658,103,Dronabinol,939.06,4/3/2011
+659,967,Zinc Oxide,84.19,3/13/2017
+660,879,Olanzapine,238.34,8/21/2007
+661,955,SCROPHULARIA NODOSA,343.21,2/18/2002
+662,433,Octinoxate Octisalate,302.25,2/27/2006
+663,90,HUMAN IMMUNOGLOBULIN G,881.97,11/27/2003
+664,542,Levothyroxine Sodium,250.65,10/13/2010
+665,125,"Avobenzone, Ensulizole, Octinoxate, Octocrylene",52.13,4/14/2007
+666,560,Octinoxate and Titanium dioxide,838.9,7/4/2020
+667,792,ALCOHOL,817.71,10/10/2000
+668,640,Salicylic Acid,890.29,8/10/2015
+669,332,Loratadine,655.34,2/28/2005
+670,232,TRICLOSAN,582.02,2/13/2017
+671,834,Aspirin,648.87,5/3/2018
+672,131,Aurum Strophanthus Special Order,46.01,7/11/2004
+673,489,Benzalkonium Chloride,980.54,5/5/2002
+674,532,"Abrotanum, Aesculus hipp., Allium sativum, Arsenicum alb., Artemisia, Baptisia, Cina, Cuprum met., Filix mas, Granatum, Ipecac, Lachesis, Lycopodium, Merc. viv, Naphthalinum, Nat. mur., Nux vom., Pulsatilla, Ratanhia, Ruta, Sabadilla, Santoninum, Silicea, Spigelia anth., Terebinthina, Teucrium marum, Thymolum, Zingiber, Juglans regia",268.01,7/25/2015
+675,161,Aluminum Chlorohydrate,517.99,8/11/2013
+676,47,HYDROXYZINE PAMOATE,653.46,7/17/2008
+677,156,"sulfur, resorcinol",106.62,7/6/2013
+678,847,WITCH HAZEL,241.12,10/25/2010
+679,644,Oxymetazoline hydrochloride,615.04,11/8/2016
+680,15,Carvedilol,343.88,4/4/2014
+681,761,clomiphene citrate,424.06,2/16/2007
+682,978,Chlorthalidone,359.55,4/3/2001
+683,905,"DEXTROMETHORPHAN HYDROBROMIDE, DOXYLAMINE SUCCINATE",380.04,11/20/2016
+684,343,AMIFOSTINE,541.17,1/16/2002
+685,74,"Homosalate, Octisalate, Oxybenzone, Avobenzone, Octocrylene",419.22,1/29/2001
+686,137,Ursodiol,754.3,9/26/2005
+687,940,Menthol,283.98,5/16/2001
+688,686,lisdexamfetamine dimesylate,735.64,7/22/2001
+689,821,"Methyl Salicylate, Camphor, Menthol",291.21,5/19/2015
+690,882,"Iris Versicolor Root, Lavandula Angustifolia Flowering Top, and Silicon Dioxide",894.82,5/24/2013
+691,145,bisacodyl,916.7,4/19/2014
+692,773,Prednisone,553.91,3/17/2008
+693,938,English Walnut,171.73,1/22/2014
+694,457,CHLOROXYLENOL,940.16,9/20/2007
+695,530,LISINOPRIL,880.48,2/15/2012
+696,387,FAMCICLOVIR,499.14,6/29/2007
+697,883,MERCURIUS VIVUS,356.05,10/20/2012
+698,87,"Echinacea purpurea, Hydrastis canadensis, Eupatorium perfoliatum, Verbascum thapus, Sheep sorrel, Yellow dock, Kentucky Blue grass, Orchard grass, Red Top grass, Timothy grass,",993.78,12/25/2020
+699,373,GLYCERIN,320.6,1/8/2006
+700,284,Losartan Potassium,830.06,4/3/2003
+701,818,"Leucine, Phenylalanine, Lysine hydrochloride, Methionine, Isoleucine, Valine, Histidine, Threonine, Tryptophan, Alanine, Glycine, Arginine, Proline, Tyrosine, Serine",911.68,10/15/2001
+702,828,Ziprasidone HCl,85.95,3/20/2014
+703,785,benzalkonium chloride,970.07,5/16/2012
+704,663,"Acetaminophen, Dextromethorphan HBr, Guaifenesin, Phenylephrine HCl",411.21,12/29/2021
+705,779,Rifampin,259.83,4/28/2000
+706,840,SALICYLIC ACID,965.27,7/3/2003
+707,497,PREGABALIN,594.95,6/23/2019
+708,53,Propranolol Hydrochloride,974.53,6/10/2008
+709,668,Buspirone Hydrochloride,13.53,5/27/2017
+710,658,Arnica Aurum Equisetum,26.47,5/25/2017
+711,579,prochlorperazine maleate,538.09,10/4/2010
+712,225,cyclobenzaprine hydrochloride,688.28,8/19/2015
+713,955,"Oxybenzone, Padimate O",137.0,12/24/2002
+714,116,Zafirlukast,823.78,7/19/2014
+715,653,"Octinoxate, Octocrylene, Octisalate, and Zinc Oxide",53.79,5/6/2020
+716,873,levonorgestrel,971.38,12/31/2006
+717,603,"Adrenalinum, Thyroidinum, Aloe, Calc. carb., Chelidonium majus, Conium, Graphites, Iodium, Lachesis, Lycopodium, Lycopus virginicus, Phytolacca, Rhus toxicodendron, Silicea, Spongia, Echinacea",403.38,6/24/2004
+718,322,Morphine Sulfate,491.46,10/28/2000
+719,597,Thuja Occidentalis Leafy Twig,933.26,2/9/2012
+720,654,Bisacodyl,612.94,7/6/2013
+721,864,"Avobenzone, Octinoxate, Octisalate",13.43,9/13/2022
+722,698,Carvedilol,88.18,1/22/2006
+723,592,triamcinolone acetonide,839.13,7/27/2012
+724,548,Titanium Dioxide and Octinoxate,292.06,5/29/2016
+725,574,Canova Immune Support,834.92,11/30/2012
+726,397,Lithium Carbonate,236.17,7/27/2019
+727,879,"Ascorbic Acid, Folic Acid, Niacin, Thiamine, Riboflavin, Pyridoxine, Cyanocobalamin, Pantothenic Acid, Biotin",918.07,2/17/2020
+728,837,Hydrocortisone,63.81,12/18/2002
+729,605,Cuprum Aceticum 3,641.59,9/25/2009
+730,850,Guaifenesin and DEXTROMETHORPHAN HYDROBROMIDE,756.79,9/8/2013
+731,896,Ropinirole,997.62,7/1/2011
+732,114,MIDAZOLAM HYDROCHLORIDE,925.45,10/1/2003
+733,329,Labetalol HCl,355.92,7/15/2015
+734,650,Glipizide,208.99,10/17/2002
+735,685,"Allium cepa, Ambrosia artemisiaefolia, Arsenicum album, Euphrasia officinalis, Nux vimica, Phosphorus, Pulsatilla, Solidago virgaurea, Sulphur,",918.37,11/30/2009
+736,317,oxycodone hydrochloride and acetaminophen,576.28,4/28/2010
+737,406,Ibuprofen,25.2,8/2/2014
+738,364,HYDROGEN PEROXIDE,918.88,12/24/2018
+739,464,OXYGEN,418.02,11/25/2009
+740,973,Entacapone,708.14,1/22/2007
+741,93,PHENYTOIN,809.19,12/1/2005
+742,869,"AVOBENZONE, HOMOSALATE, OCTISALATE, OXYBENZONE",124.79,4/1/2006
+743,648,Dermatophagoides farinae,835.44,4/30/2004
+744,586,Safflower Seed,347.52,8/5/2019
+745,844,Labetalol hydrochloride,176.82,10/12/2010
+746,738,HYDROXYZINE PAMOATE,615.3,3/30/2009
+747,676,meclofenamate sodium,889.8,3/12/2015
+748,679,House Dust,356.42,8/2/2021
+749,759,Quinapril Hydrochloride,854.08,11/25/2020
+750,176,White Petrolatum,362.94,12/5/2019
+751,742,"Arsenicum alb., Benzoicum acidum, Berber. vulg, Bryonia, Caladium seguinum, Cantharis, Ceanothus, Chelidonium majus, Chionanthus virginica, Cinchona, Daphne indica, Ignatia, Iris versicolor, Lycopodium, Nicotinum, Nux vom., Rhus toxicodendron, Scutellaria lateriflora, Tabacum, Echinacea, Taraxacum, Valeriana",393.66,5/14/2003
+752,769,Anticoagulant Citrate Phosphate Dextrose (CPD) Solution and ADSOL Preservation Solution,111.07,11/6/2002
+753,139,Levothyroxine Sodium,406.56,2/4/2017
+754,540,Insomnia 2,695.7,10/2/2018
+755,372,Ketoprofen,206.21,1/31/2010
+756,613,prilocaine hydrochloride,753.45,1/7/2017
+757,298,Colloidal oatmeal,618.13,1/17/2015
+758,805,nystatin,895.18,9/6/2018
+759,221,Levothyroxine Sodium,50.43,7/9/2009
+760,420,Acetaminophen,989.75,12/28/2019
+761,831,LOSARTAN POTASSIUM AND HYDROCHLOROTHIAZIDE,472.16,10/22/2020
+762,87,levetiracetam,770.27,11/10/2001
+763,81,isosorbide mononitrate,778.35,9/5/2007
+764,279,fentanyl citrate,87.89,7/26/2016
+765,642,isosorbide mononitrate,85.27,7/19/2011
+766,788,Acetaminophen,666.17,3/11/2010
+767,847,riociguat,184.01,1/18/2014
+768,246,"SULFUR, THUJA OCCIDENTALIS LEAFY TWIG, VACCINIA VIRUS STRAIN NEW YORK CITY BOARD, GONORRHEAL URETHRAL SECRETION HUMAN,SODIUM CHLORIDE, NERIUM OLEANDER LEAF,CICUTA VIROSA ROOT,",221.73,10/21/2013
+769,120,Cetirizine Hydrochloride,419.29,12/4/2006
+770,842,"Adrenalinum, Alfalfa, Ambrosia artemisiaefolia, Anacardium orientale, Argentum nitricum, Avena sativa, Aesculus hippocastanum, flos, Calcarea carbonica, Carboneum oxygenisatum, Carpinus betulus, flos, Citricum acidum, Gelsemium sempervirens, Hypothalamus, Kali phosphoricum, Lecithin, Natrum muriaticum, Olea europaea, flos, Phosphoricum acidum, Pituitarum posterium, Selenium metallicum, Sepia, Silicea, Thyroidinum",792.55,10/13/2013
+771,282,hydrocortisone acetate,140.48,3/16/2006
+772,738,nicotine polacrilex,814.85,3/13/2021
+773,944,Titanium Dioxide,378.1,10/13/2021
+774,682,Loperamide Hydrochloride,592.17,3/3/2008
+775,775,"OCTINOXATE, TITANIUM DIOXIDE, and ZINC OXIDE",204.72,5/17/2019
+776,30,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate",357.92,5/28/2001
+777,98,Warfarin Sodium,81.1,10/26/2005
+778,793,Doxycycline Hyclate,551.67,11/17/2004
+779,10,Ketorolac Tromethamine,906.82,1/21/2008
+780,123,WARFARIN SODIUM,739.52,11/6/2020
+781,804,Amlobenz,936.07,6/28/2014
+782,264,ATORVASTATIN CALCIUM,702.45,1/31/2001
+783,863,Phentermine Hydrochloride,872.75,5/20/2015
+784,419,HALOPERIDOL LACTATE,285.11,2/7/2022
+785,276,Loratadine,89.24,8/14/2016
+786,748,Acarbose,361.84,6/2/2019
+787,348,OXYBUTYNIN CHLORIDE,169.34,8/21/2013
+788,743,gadodiamide,211.69,5/6/2016
+789,53,SOLX B ADDITIVE SOLUTION,239.74,10/16/2004
+790,696,CARBON DIOXIDE,282.31,1/6/2014
+791,657,Dexamethasone,512.3,6/21/2017
+792,40,OXYGEN,304.68,5/15/2011
+793,68,Octinoxate,299.3,6/11/2020
+794,352,HYDROCHLOROTHIAZIDE,959.7,6/30/2005
+795,132,"RANITIDINE HYDROCHLORIDE, CHOLINE",990.68,9/19/2021
+796,714,SALICYLIC ACID,235.38,4/23/2010
+797,726,CYANOCOBALAMIN,961.07,5/1/2011
+798,628,Ropinirole Hydrochloride,928.33,6/6/2000
+799,26,ginkgo leaf extract,463.35,4/8/2010
+800,620,DOCUSATE SODIUM,173.43,2/8/2002
+801,185,risperidone,281.08,3/9/2011
+802,558,KETOTOLAC TROMETHAMINE,543.2,11/18/2004
+803,460,Morphine Sulfate Oral Solution,670.25,6/23/2004
+804,115,"Aceetaminophen, Guaifenesin and Phenylephrine HCl",452.83,10/21/2003
+805,34,BENZALKONIUM CHLORIDE,839.01,11/17/2017
+806,800,Titanium Dioxide,77.83,7/4/2002
+807,877,Testosterone,519.24,1/12/2003
+808,899,Fexofenadine Hydrochloride,230.34,6/28/2003
+809,478,"avobenzone, homosalate, octisalate, octocrylene",890.14,5/1/2014
+810,220,Benzalkonium Chloride,989.46,5/4/2008
+811,807,golimumab,617.71,7/19/2007
+812,227,linezolid,687.52,7/11/2003
+813,773,levetiracetam,327.08,4/1/2022
+814,731,Sodium Sulfacetamide,365.34,8/14/2021
+815,988,Ranitidine,433.0,4/5/2022
+816,585,Triclosan,744.68,4/24/2014
+817,493,Multi-Electrolyte,490.1,12/20/2010
+818,15,Morphine,840.16,4/29/2009
+819,662,"CAPSAICIN, LIDOCAINE, MENTHOL, AND METHYL SALICYLATE",906.39,10/3/2021
+820,126,Miconazole nitrate,277.38,2/3/2015
+821,771,Doxazosin Mesylate,679.94,8/16/2006
+822,631,Avobenzone and Octinoxate,836.36,9/16/2019
+823,828,ARIPIPRAZOLE,5.53,5/29/2018
+824,906,"OCTINOXATE, ZINC OXIDE, OCTISALATE, TITANIUM DIOXIDE",910.26,3/2/2008
+825,467,Juglans Stannum Special Order,940.51,1/19/2008
+826,419,"Human chorionic gonadotropin,",139.22,2/20/2015
+827,96,BENZALKONIUM CHLORIDE,510.13,2/24/2009
+828,180,SALICYLIC ACID,73.52,8/6/2017
+829,708,Dextromethorphan HBr,666.93,2/4/2000
+830,900,Morphine Sulfate Oral Solution,761.46,3/23/2000
+831,859,metronidazole,964.78,7/27/2004
+832,113,TITANIUM DIOXIDE,357.52,6/12/2005
+833,269,"AVOBENZONE, HOMOSALATE, OCTINOXATE, OCTISALATE, OXYBENZONE",544.13,9/2/2022
+834,393,Temozolomide,833.98,4/22/2015
+835,390,Aluminum Zirconium Trichlorohydrex Gly,320.35,1/25/2007
+836,962,Ibuprofen,732.62,10/26/2010
+837,640,Tropicamide,135.1,1/6/2012
+838,615,"Bacitracin Zinc, Neomycin Sulfate, Polymyxin B Sulfate, and Pramoxine Hydrochloride",422.26,4/27/2006
+839,812,OXYCODONE HYDROCHLORIDE,150.13,2/12/2015
+840,950,"Homosalate, Octinoxate, Octocrylene, and Zinc oxide",280.12,11/29/2018
+841,389,Methylphenidate Hydrochloride,331.26,5/10/2018
+842,626,Clonazepam,393.29,2/10/2021
+843,889,Octinoxate and Titanium Dioxide,737.69,2/29/2020
+844,39,Treatment Set TS335101,608.82,12/26/2002
+845,214,PHENAZOPYRIDINE HYDROCHLORIDE,270.04,1/16/2021
+846,875,Lorazepam,939.37,11/4/2015
+847,681,ZINC GLUCONATE,895.25,7/11/2010
+848,604,"Titanium Dioxide, Zinc Oxide, and Octinoxate",778.12,3/2/2000
+849,652,clarithromycin,421.54,9/22/2010
+850,700,Undecylenic acid,172.97,9/5/2002
+851,864,Carbon Dioxide-Oxygen-Nitrogen Mixture,912.45,10/18/2009
+852,283,CARBIDOPA AND LEVODOPA,894.96,9/28/2006
+853,317,"Antimonium Tart 30c, Belladonna 30c, Carbo Veg 30c, Cina 30c, Coccus Cacti 30c, Cuprum Met 30c, Dioscorea 30c, Drosera 30c, Formalinum 30c, Ignatia 30c, Ipecac 30c, Kali Brom 30c, Kali Carb 30c, Kali Sulph 30c, Mephitis 30c, Nux Vomica 30c Pertussinum 30c, Pulsatilla 30c Veratrum 30c",730.58,7/10/2008
+854,830,Testosterone,397.55,1/27/2008
+855,624,Megestrol Acetate,619.53,11/14/2010
+856,848,"TITANIUM DIOXIDE, ZINC OXIDE",625.58,5/28/2008
+857,306,Calcipotriene,382.57,11/6/2020
+858,984,"Avobenzone, Homosalate, Octisalate, and Octocrylene",432.94,9/28/2013
+859,339,"Avobenzone, Octinoxate, Octisalate and Octocrylene",236.83,4/27/2018
+860,19,ALUMINUM SULFATE,300.21,2/29/2012
+861,693,Titanium Dioxide,621.14,12/17/2008
+862,363,Fluoride Ions,464.05,1/25/2014
+863,968,concord grape,70.21,10/13/2000
+864,528,"Cedar, Red Juniperus virginiana",500.5,7/10/2002
+865,308,"Dimethicone, Octinoxate, and Oxybenzone",802.49,6/29/2005
+866,479,Nicotine,583.8,7/3/2000
+867,961,Hamamelis Virginiana Root Bark/Stem Bark and Horse Chestnut,993.03,10/10/2013
+868,780,ibuprofen,38.55,5/29/2013
+869,128,fenoprofen calcium,24.32,4/2/2001
+870,487,"sodium sulfacetamide, sulfur",163.81,10/27/2019
+871,478,Glipizide,410.42,2/7/2013
+872,627,Metoclopramide Hydrochloride,456.3,8/18/2016
+873,891,Hydrocodone Bitartrate and Acetaminophen,94.72,6/27/2001
+874,110,Promethazine and Phenylephrine,625.49,9/6/2007
+875,331,TRICLOSAN,633.25,11/8/2006
+876,934,Lamotrigine,847.52,3/1/2016
+877,655,"Acetaminophen, Aspirin, Caffeine",732.68,9/6/2021
+878,694,"Cocoa butter, Phenylephrine HCl, Shark liver oil",363.21,4/19/2008
+879,32,galantamine hydrobromide,325.3,9/5/2019
+880,691,Kidney Support,372.91,4/18/2020
+881,525,"OCTINOXATE, TITANIUM DIOXIDE",628.52,6/6/2022
+882,86,Promethazine Hydrochloride,740.28,5/14/2010
+883,538,tramadol hydrochloride,640.09,3/15/2021
+884,195,buprenorphine hydrochloride,226.19,5/13/2009
+885,662,nitazoxanide,936.58,5/14/2020
+886,492,CLUBMOSS,622.57,10/19/2001
+887,428,String Bean Mix,321.52,8/19/2019
+888,557,Chlordiazepoxide Hydrochloride and Clidinium Bromide,392.73,9/28/2004
+889,369,Titanium Dioxide and Zinc Oxide,701.99,10/7/2014
+890,409,Octinoxate,9.68,10/3/2019
+891,576,Metformin Hydrochloride,273.07,6/12/2002
+892,109,Doxazosin Mesylate,596.92,5/20/2005
+893,319,ALCOHOL,16.48,9/2/2012
+894,55,"Acetaminophen, Diphenhydramine HCl",92.85,10/17/2014
+895,865,HYDROCORTISONE,759.49,12/22/2009
+896,80,"Calc phos, Kali phos, Nat Phos",16.16,7/23/2001
+897,821,Lanolin and Petrolatum,681.43,11/20/2022
+898,30,Estazolam,306.49,1/10/2019
+899,210,"Camphor,Eucalyptus Oil, Menthol",413.78,5/7/2009
+900,529,Ranitidine,144.11,10/29/2018
+901,529,everolimus,617.3,6/9/2004
+902,155,Prednisone,280.83,3/17/2011
+903,362,Anti-bacterial Hand Wash,359.17,12/21/2016
+904,840,"Mineral oil, Petrolatum, Phenylephrine HCl, Shark liver oil",943.05,11/8/2015
+905,497,"Avobenzone, Octinoxate, OXYBENZONE, and Octisalate",606.64,2/17/2000
+906,747,Natrum muriaticum,750.53,3/13/2016
+907,419,"Avobenzone, Ensulizole, Octinoxate, and Oxybenzone",210.75,6/2/2005
+908,805,Fluoride,464.91,12/7/2002
+909,312,GEMFIBROZIL,872.14,8/6/2005
+910,432,Carbon Dioxide,709.22,12/27/2012
+911,697,Acetaminophen,131.68,4/9/2017
+912,360,"OCTINOXATE, OCTOCRYLENE, and TITANIUM DIOXIDE",687.84,5/21/2001
+913,37,Oxygen,1.84,8/24/2004
+914,668,naproxen sodium,54.33,6/10/2007
+915,735,Robinul,138.02,3/18/2021
+916,413,Formica ex animale 4,285.01,2/23/2014
+917,68,Aspirin,359.87,6/27/2010
+918,227,olmesartan medoxomil,957.75,10/24/2017
+919,466,usnea barbata,341.43,8/27/2017
+920,869,Venlafaxine Hydrochloride,968.28,5/31/2005
+921,334,Tamsulosin Hydrochloride,279.56,2/9/2003
+922,686,Triamcinolone Acetonide,118.99,7/18/2012
+923,551,"OCTINOXATE, OCTISALATE, AVOBENZONE, OCTOCRYLENE",538.14,9/7/2004
+924,861,Indomethacin,171.59,9/8/2020
+925,562,"Echinacea, Hydrastis Canadensis, Lomatium Dissectum, Myrrha, Nasturtium Aquaticum, Tabebuia Impetiginosa, Glandula Suprarenalis Bovine",698.37,5/25/2004
+926,208,Magnesium Citrate,159.98,6/6/2006
+927,317,"Avobenzone, Octisalate and Octocrylene",371.86,6/6/2001
+928,293,American Beech,719.85,8/21/2019
+929,423,Tretinoin,865.62,4/16/2006
+930,210,Metronidazole,212.64,12/23/2020
+931,728,TITANIUM DIOXIDE,689.02,3/20/2006
+932,640,"Ceanothus Americanus, Euphrasia Officinalis, Geranium Robertianum, Juglans Regia, Myosotis Arvensis, Sarsaparilla",341.35,8/20/2006
+933,549,nifedipine,451.15,2/22/2018
+934,160,Cetirizine Hydrochloride,500.98,8/12/2007
+935,508,ARSENIC TRIIODIDE - EUPATORIUM PERFOLIATUM FLOWERING TOP - GELSEMIUM SEMPERVIRENS ROOT,470.86,10/3/2003
+936,859,BACITRACIN,380.32,6/24/2005
+937,425,Baclofen,466.14,5/12/2001
+938,271,"neomycin sulfate, polymyxin b sulfate and gramicidin",754.56,5/21/2004
+939,948,"Avobenzone, Homosalate, Octisalate, Octocrylene, and Oxybenzone",659.18,9/25/2016
+940,444,ASPIRIN,130.56,10/9/2010
+941,422,venlafaxine hydrochloride,103.49,1/26/2002
+942,243,Water,264.26,12/20/2006
+943,819,Titanium dioxide,648.82,10/21/2021
+944,239,Isopropyl alcohol,405.32,2/25/2020
+945,230,"Avobenzone, Octocrylene, Oxybenzone, Octisalate",458.31,1/2/2015
+946,881,"ANAMIRTA COCCULUS SEED, CONIUM MACULATUM FLOWERING TOP, and TOBACCO LEAF",933.13,11/14/2009
+947,111,Gabapentin,288.03,11/13/2003
+948,507,Minocycline Hydrochloride,957.32,8/31/2004
+949,266,Aspirin,134.92,12/30/2005
+950,828,atorvastatin calcium,587.65,4/2/2005
+951,730,Aspirin,354.73,6/19/2008
+952,49,penicillin G benzathine and penicillin G procaine,781.85,8/13/2017
+953,65,"ARNICA MONTANA, BENZOIC ACID, BRYONIA ALBA ROOT, MATRICARIA RECUTITA, SOLANUM DULCAMARA TOP, POTASSIUM IODIDE, PULSATILLA VULGARIS, RHODODENDRON AUREUM LEAF, TOXICODENDRON PUBESCENS LEAF",341.55,7/9/2019
+954,849,fluoxetine hydrochloride,803.21,5/31/2022
+955,777,Cetirizine Hydrochloride,831.55,7/5/2012
+956,319,quinapril,653.68,11/18/2020
+957,195,Carelessweed,173.18,10/10/2006
+958,818,Aluminum zirconium tetrachlorohydrex gly,999.38,8/24/2019
+959,406,butalbital and acetaminophen,10.63,6/6/2007
+960,939,Simvastatin,609.75,5/22/2007
+961,791,Fluconazole,350.81,8/13/2005
+962,509,ALCOHOL,504.25,9/12/2015
+963,650,"Phosphoricum Acidum, Heparus Suis, HGH, IGF-1, Pituitarum (suis)",391.86,5/29/2014
+964,31,"Dextroamphetamine Saccharate, Amphetamine Aspartate, Dextroamphetamine Sulfate and Amphetamine Sulfate",973.25,9/2/2018
+965,331,Aspirin,584.92,7/2/2004
+966,306,"Acetaminophen, Caffeine and Pyrilamine maleate",279.1,10/20/2000
+967,107,Levothyroxine Sodium,804.4,3/12/2010
+968,389,OCTINOXATE AVOBENZONE ZINC OXIDE OCTOCRYLENE,327.18,2/27/2019
+969,423,"OCTINOXATE, TITANIUM DIOXIDE",551.38,6/19/2010
+970,557,"AVOBENZONE, OCTOCRYLENE, OXYBENZONE",916.21,2/10/2009
+971,95,Titanium Dioxide,650.36,12/7/2017
+972,730,Trolamine Salicylate,316.13,1/6/2002
+973,27,SALICYLIC ACID,827.77,11/17/2005
+974,652,Octinoxate and Oxybenzone,890.77,8/23/2009
+975,510,Amlodipine Besylate,736.56,11/2/2017
+976,600,losartan potassium,352.48,10/24/2016
+977,332,"Calcarea phosphorica, Chamomilla, Coffea cruda,Passiflora incarnata",317.52,11/16/2005
+978,786,DRONABINOL,336.16,9/7/2022
+979,487,Metronidazole,535.81,9/28/2003
+980,542,"Bismuthum metallicum, Aloe, Angelica sinensis radix, Antimon. crud., Arg. nit., Arnica, Arsenicum alb., Baptisia, Bryonia, Cinchona, Graphites, Hydrastis, Ipecac., Lachesis, Lycopodium, Myrrha, Nat. carb., Nux vom., Phosphorus, Pulsatilla, Zingiber, Chamomilla, Echinacea, Iris versicolor, Ruta, Taraxacum",781.04,11/28/2018
+981,733,"ACETAMINOPHEN, ASPIRIN, SALICYLAMIDE and CAFFEINE",712.71,5/6/2007
+982,507,Clomipramine Hydrochloride,55.28,8/5/2008
+983,95,Palmers Amaranth,704.54,3/8/2006
+984,902,"homosalate, octocrylene, octisalate, Avobenzone",370.77,3/26/2013
+985,735,Trolamine Salicylate,852.95,12/21/2012
+986,499,"Acetaminophen, Dextromethorphan HBr, Phenylephreine HCI",289.0,7/18/2022
+987,705,Lansoprazole,408.16,12/23/2019
+988,713,FERRIC OXIDE RED,563.98,5/6/2022
+989,222,Benzalkonium Chloride,411.49,11/23/2006
+990,235,trimethobenzamide hydrochloride,558.61,8/27/2002
+991,660,Omeprazole,945.82,8/30/2017
+992,880,insulin glargine,12.36,4/12/2015
+993,111,Divalproex Sodium,614.98,4/13/2016
+994,516,Aluminum Chlorohydrate,820.44,2/1/2004
+995,245,TITANIUM DIOXIDE,451.86,1/22/2006
+996,523,Ensulizole Octinoxate,709.31,2/27/2004
+997,216,levonorgestrel,207.74,12/15/2018
+998,875,Zinc Sulfate,727.07,5/21/2018
+999,761,benazepril hydrochloride and hydrochlorothiazide,32.13,2/25/2010
+1000,72,Lisinopril and Hydrochlorothiazide,598.74,3/21/2008
