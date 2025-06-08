@@ -1,9 +1,11 @@
 # Healthcare Patient Analysis
 A Data Analysis and Visualization project that uses **MySQL** for data processing and **Power BI** for reporting on patient demographics, doctor performances and medication patterns to derive key healthcare insights.
+
 ---
 
 ##  📌 Project Overview
 This project analyzes the healthcare patient records using MySQL and visualizes insights with Power BI. This project covers patient demographics, doctor performance and prescribed medications. The purpose is to demonstrate real-world SQL analytical skills and Data Visualization techniques in Data Analysis.
+
 ---
 
 ##  🧰 Tools Used
